@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/ИИ-инструменты%20в%20Notion-F9DC3E?style=for-the-badge&logo=notion&logoColor=black" alt="Notion AI Tools">
   </a>
 </p>
+
 ## ⚙️ Навыки
 
 <details>
