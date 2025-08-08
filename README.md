@@ -11,8 +11,11 @@
 ---
 
 <p align="center">
-  <a href="https://t.me/smailkiller">
+  <a href="t.me/SMailsPub">
     <img src="https://img.shields.io/badge/Мой%20канал%20в%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://t.me/smailkiller">
+    <img src="https://img.shields.io/badge/Мой%20профиль-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://autorevit.notion.site/1d3cc3d636a380ca85d5f611df8b0d4d?v=1d3cc3d636a38012b9db000cd0e55ea4">
     <img src="https://img.shields.io/badge/ИИ-инструменты%20в%20Notion-F9DC3E?style=for-the-badge&logo=notion&logoColor=black" alt="Notion AI Tools">
