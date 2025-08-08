@@ -12,14 +12,11 @@
 
 <p align="center">
   <a href="t.me/SMailsPub">
-    <img src="https://img.shields.io/badge/Мой%20канал%20в%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+    <img src="https://img.shields.io/badge/Мой%20канал%20в%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://t.me/smailkiller">
-    <img src="https://img.shields.io/badge/Мой%20профиль-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+    <img src="https://img.shields.io/badge/Мой%20профиль-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://autorevit.notion.site/1d3cc3d636a380ca85d5f611df8b0d4d?v=1d3cc3d636a38012b9db000cd0e55ea4">
-    <img src="https://img.shields.io/badge/ИИ-инструменты%20в%20Notion-F9DC3E?style=for-the-badge&logo=notion&logoColor=black" alt="Notion AI Tools">
-  </a>
+    <img src="https://img.shields.io/badge/ИИ-инструменты%20в%20Notion-F9DC3E?style=for-the-badge&logo=notion&logoColor=black" alt="Notion AI Tools"></a>
 </p>
 
 ## ⚙️ Навыки
@@ -65,37 +62,28 @@
 
 <p align="center">
   <a href="https://github.com/Smailkiller/pyRevitTetris">
-    <img src="https://img.shields.io/badge/🧱 pyRevitTetris-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitTetris"/>
-  </a>
+  <img src="https://img.shields.io/badge/🧱 pyRevitTetris-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitTetris"/></a>
   <a href="https://github.com/Smailkiller/pyRevitSnake">
-    <img src="https://img.shields.io/badge/🐍 pyRevitSnake-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitSnake"/>
-  </a>
+  <img src="https://img.shields.io/badge/🐍 pyRevitSnake-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitSnake"/></a>
   <a href="https://github.com/Smailkiller/pyRevitStupidCalc">
-    <img src="https://img.shields.io/badge/🔢 pyRevitStupidCalc-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitStupidCalc"/>
-  </a>
+  <img src="https://img.shields.io/badge/🔢 pyRevitStupidCalc-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitStupidCalc"/></a>
   <a href="https://github.com/Smailkiller/pyRevitSaper">
-    <img src="https://img.shields.io/badge/📅 pyRevitSaper-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitSaper"/>
-  </a>
+  <img src="https://img.shields.io/badge/📅 pyRevitSaper-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitSaper"/></a>
 </p>
 
 ### 💼 Автоматизация, боты и AI
 
 <p align="center">
   <a href="https://github.com/Smailkiller/QuestMasterBot">
-    <img src="https://img.shields.io/badge/QuestMasterBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="QuestMasterBot"/>
-  </a>
+    <img src="https://img.shields.io/badge/QuestMasterBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="QuestMasterBot"/></a>
   <a href="https://github.com/Smailkiller/ComfyuiSERVER">
-    <img src="https://img.shields.io/badge/ComfyuiSERVER-FF6F91?style=for-the-badge&logo=cloudflare&logoColor=white" alt="ComfyuiSERVER"/>
-  </a>
+    <img src="https://img.shields.io/badge/ComfyuiSERVER-FF6F91?style=for-the-badge&logo=cloudflare&logoColor=white" alt="ComfyuiSERVER"/></a>
   <a href="https://github.com/Smailkiller/PromtLake">
-    <img src="https://img.shields.io/badge/PromtLake-4C4C4C?style=for-the-badge&logo=notion&logoColor=white" alt="PromtLake"/>
-  </a>
+    <img src="https://img.shields.io/badge/PromtLake-4C4C4C?style=for-the-badge&logo=notion&logoColor=white" alt="PromtLake"/></a>
   <a href="https://github.com/Smailkiller/ExcelToKalenadar">
-    <img src="https://img.shields.io/badge/ExcelToKalenadar-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="ExcelToKalenadar"/>
-  </a>
+    <img src="https://img.shields.io/badge/ExcelToKalenadar-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="ExcelToKalenadar"/></a>
   <a href="https://github.com/Smailkiller/VideoToText">
-    <img src="https://img.shields.io/badge/VideoToText-000000?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="VideoToText"/>
-  </a>
+    <img src="https://img.shields.io/badge/VideoToText-000000?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="VideoToText"/></a>
 </p>
 
 
