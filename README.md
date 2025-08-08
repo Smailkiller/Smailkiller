@@ -56,18 +56,56 @@
 
 ## 📌 Проекты и примеры
 
-- 🤖 Боты для рассылки медиа, обработки опросов и управления вишлистами
-- 🧠 Локальные LLM-агенты с графовой логикой и автоматизацией
-- 🧰 Панели в Revit + тулкиты для работы с чертежами и листами
-- 🖼 Генерация изображений с кастомными промтами и автоматикой через n8n
+🤖 Боты для рассылки медиа, обработки опросов и управления вишлистами  
+🧠 Локальные LLM-агенты с графовой логикой и автоматизацией  
+🧰 Панели в Revit + тулкиты для работы с чертежами и листами  
+🖼 Генерация изображений с кастомными промтами и автоматикой через n8n  
+
+### 🎮 Игры и инструменты для Revit
+
+<p align="center">
+  <a href="https://github.com/Smailkiller/pyRevitTetris">
+    <img src="https://img.shields.io/badge/🧱 pyRevitTetris-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitTetris"/>
+  </a>
+  <a href="https://github.com/Smailkiller/pyRevitSnake">
+    <img src="https://img.shields.io/badge/🐍 pyRevitSnake-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitSnake"/>
+  </a>
+  <a href="https://github.com/Smailkiller/pyRevitStupidCalc">
+    <img src="https://img.shields.io/badge/🔢 pyRevitStupidCalc-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitStupidCalc"/>
+  </a>
+  <a href="https://github.com/Smailkiller/pyRevitSaper">
+    <img src="https://img.shields.io/badge/📅 pyRevitSaper-333?style=for-the-badge&logo=autodesk&logoColor=white" alt="pyRevitSaper"/>
+  </a>
+</p>
+
+### 💼 Автоматизация, боты и AI
+
+<p align="center">
+  <a href="https://github.com/Smailkiller/QuestMasterBot">
+    <img src="https://img.shields.io/badge/QuestMasterBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="QuestMasterBot"/>
+  </a>
+  <a href="https://github.com/Smailkiller/ComfyuiSERVER">
+    <img src="https://img.shields.io/badge/ComfyuiSERVER-FF6F91?style=for-the-badge&logo=cloudflare&logoColor=white" alt="ComfyuiSERVER"/>
+  </a>
+  <a href="https://github.com/Smailkiller/PromtLake">
+    <img src="https://img.shields.io/badge/PromtLake-4C4C4C?style=for-the-badge&logo=notion&logoColor=white" alt="PromtLake"/>
+  </a>
+  <a href="https://github.com/Smailkiller/ExcelToKalenadar">
+    <img src="https://img.shields.io/badge/ExcelToKalenadar-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="ExcelToKalenadar"/>
+  </a>
+  <a href="https://github.com/Smailkiller/VideoToText">
+    <img src="https://img.shields.io/badge/VideoToText-000000?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="VideoToText"/>
+  </a>
+</p>
+
+
 
 ## 📊 GitHub Stats
 
 <details>
   <summary><b>📈 Открыть</b></summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smailkiller&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smailkiller&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />    
     <img src="https://github-readme-stats.vercel.app/api?username=Smailkiller&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
   </p>
 </details>
