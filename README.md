@@ -74,6 +74,8 @@
 ### 💼 Автоматизация, боты и AI
 
 <p align="center">
+  <a href="[https://github.com/Smailkiller/VideoToText](https://github.com/Smailkiller/ALLinONE)">
+    <img src="https://img.shields.io/badge/VideoToText-000000?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="ALLinONE"/></a>
   <a href="https://github.com/Smailkiller/QuestMasterBot">
     <img src="https://img.shields.io/badge/QuestMasterBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="QuestMasterBot"/></a>
   <a href="https://github.com/Smailkiller/ComfyuiSERVER">
@@ -84,6 +86,7 @@
     <img src="https://img.shields.io/badge/ExcelToKalenadar-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="ExcelToKalenadar"/></a>
   <a href="https://github.com/Smailkiller/VideoToText">
     <img src="https://img.shields.io/badge/VideoToText-000000?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="VideoToText"/></a>
+
 </p>
 
 
