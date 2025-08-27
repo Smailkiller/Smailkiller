@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://github.com/Smailkiller/ALLinONE">
-    <img src="https://img.shields.io/badge/VideoToText-000000?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="ALLinONE"/></a>
+    <img src="https://img.shields.io/badge/ALLinONE-000000?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="ALLinONE"/></a>
   <a href="https://github.com/Smailkiller/QuestMasterBot">
     <img src="https://img.shields.io/badge/QuestMasterBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="QuestMasterBot"/></a>
   <a href="https://github.com/Smailkiller/ComfyuiSERVER">
