@@ -86,6 +86,8 @@
     <img src="https://img.shields.io/badge/ExcelToKalenadar-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="ExcelToKalenadar"/></a>
   <a href="https://github.com/Smailkiller/VideoToText">
     <img src="https://img.shields.io/badge/VideoToText-000000?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="VideoToText"/></a>
+      <a href="https://github.com/Smailkiller/FOXFOCUS">
+    <img src="https://img.shields.io/badge/FOXFOCUS-32CD32?style=for-the-badge&logoColor=white" alt="FOXFOCUS"/></a>
 
 </p>
 
