@@ -1,4 +1,4 @@
-<h1 align="center">🦊 Привет! Я Алексей (aka Smailkiller)</h1>
+<h1 align="center">🦊 Привет! Я Алексей (Smailkiller)</h1>
 
 
 
