@@ -88,7 +88,10 @@
     <img src="https://img.shields.io/badge/VideoToText-000000?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="VideoToText"/></a>
       <a href="https://github.com/Smailkiller/FOXFOCUS">
     <img src="https://img.shields.io/badge/FOXFOCUS-32CD32?style=for-the-badge&logoColor=white" alt="FOXFOCUS"/></a>
-
+<a href="https://github.com/Outlook-DarkSouls">
+  <img src="https://img.shields.io/badge/🔥%20Outlook%20DarkSouls-FF7A18?style=for-the-badge&logo=github&logoColor=white&labelColor=111111"
+       alt="Outlook DarkSouls GitHub Repo">
+</a>
 </p>
 
 
