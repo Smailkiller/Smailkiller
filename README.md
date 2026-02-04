@@ -91,6 +91,12 @@
 <a href="https://github.com/Outlook-DarkSouls">
   <img src="https://img.shields.io/badge/🔥%20Outlook%20DarkSouls-FF7A18?style=for-the-badge&logo=github&logoColor=white&labelColor=111111"
        alt="Outlook DarkSouls GitHub Repo">
+  <a href="https://github.com/Smailkiller/Video-to-palette">
+  <img 
+    src="https://img.shields.io/badge/Video--to--Palette-FC5C02?style=for-the-badge&logo=github&logoColor=white"
+    alt="Video-to-Palette"
+  />
+</a>
 </a>
 </p>
 
